@@ -1,0 +1,3 @@
+YOLOv8
+ultralytics.YOLO
+cv2(openCV)
